@@ -15,4 +15,3 @@ Shopping cart is a dynamic e-commerce webpage made with the help of Vanilla Java
 
 ![image2](https://github.com/rupan-ghosh/shopping-site-js/assets/159305350/498a594c-beb5-4a1a-90fe-53050f70f130)
 
-![image3](https://github.com/rupan-ghosh/shopping-site-js/assets/159305350/ed4e540f-68aa-4d3a-ab13-b6029b71a152)
